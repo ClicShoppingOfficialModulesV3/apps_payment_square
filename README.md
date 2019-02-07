@@ -28,20 +28,14 @@ link to marketplace : https://www.clicshopping.org/forum/files/file/65-apps_paym
 
 
 
-All informations about the ClicShopping
+ All informations about the ClicShopping
 
- Community : https://www.clicshopping.org
+Community : https://www.clicshopping.org
+Software : https://github.com/ClicShopping
+Official add on : https://github.com/ClicShoppingOfficialModulesV3
+Community add on : https://github.com/ClicShoppingV3Community
+trademark License info : https://www.clicshopping.org/forum/trademark/ 
 
- Software : https://github.com/ClicShopping
-
- Official add on : https://github.com/ClicShoppingOfficialModulesV3
-
- Community add on : https://github.com/ClicShoppingV3Community
-
- trademark License info : https://www.clicshopping.org/forum/trademark/ 
-
-
-         https://github.com/ClicShoppingV3Community/apps_payment_square
 ![image](https://github.com/ClicShoppingOfficialModulesV3/apps_payment_square/blob/master/ModuleInfosJson/image.png)
 
 
