@@ -5,6 +5,7 @@ The payment gateway is operated by Square, Inc, which also offers POS card and c
 https://squareup.com
 
 Important Note :
+You must havec composer installed on your erver
 You must have an account to square.
 You site must have a valid ssl certificate
 A help section is including inside the apps
@@ -20,12 +21,8 @@ Activate the module in Payment
 Copy the apps_payment_square.json into ClicShopping/Work/Cache/Github (manual installation)
 
 
-
-
-
 See Marketplace for all informations
 link to marketplace : https://www.clicshopping.org/forum/files/file/65-apps_payment_square/
-
 
 
  All informations about the ClicShopping
