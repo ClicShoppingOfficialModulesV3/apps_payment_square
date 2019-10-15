@@ -20,6 +20,8 @@ http://monsite/myAdmin/index.php?A&Payment\Square
 Activate the module in Payment
 Copy the apps_payment_square.json into ClicShopping/Work/Cache/Github (manual installation)
 
+Use composer with auto instalation else composer require ('square/connect');  in your shop directory in your terminal
+
 
 See Marketplace for all informations
 link to marketplace : https://www.clicshopping.org/forum/files/file/65-apps_payment_square/
