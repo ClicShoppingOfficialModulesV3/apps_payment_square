@@ -16,7 +16,6 @@ Copy the apps_payment_square.json into ClicShopping/Work/Cache/Github (manual in
 
 
 Important note :
-- You must havec composer installed on your erver
 - You must have an account to square.
 - You site must have a valid ssl certificate
 - A help section is including inside the apps
