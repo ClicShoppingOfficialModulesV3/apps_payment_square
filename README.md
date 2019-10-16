@@ -4,14 +4,8 @@ The Square payment plugin module allows you to connect your Square account to yo
 The payment gateway is operated by Square, Inc, which also offers POS card and chip readers to handle card-present transactions you can conduct from your phone or tablet in-store or mobile.<br /><br />
 https://squareup.com
 
-Important Note :
-You must havec composer installed on your erver
-You must have an account to square.
-You site must have a valid ssl certificate
-A help section is including inside the apps
-The payment works only in CAD or USD currency
-
 licence  : GPL 2 - MIT
+French English
 
 Install :
 
@@ -20,7 +14,24 @@ http://monsite/myAdmin/index.php?A&Payment\Square
 Activate the module in Payment
 Copy the apps_payment_square.json into ClicShopping/Work/Cache/Github (manual installation)
 
-Use composer with auto instalation else composer require ('square/connect');  in your shop directory in your terminal
+
+Important note :
+- You must havec composer installed on your erver
+- You must have an account to square.
+- You site must have a valid ssl certificate
+- A help section is including inside the apps
+- The payment works only in CAD or USD currency
+
+- To use this apps, you must install composer on your local server or your server (apt-get install composer for linux).
+- The exec function must be authorised by your hoster else the auto installation will not work (for the libray but the apps will be installed).
+- To install manually the library
+Inside the shop directory (where there is composer.json file)
+
+composer require square/connect ==> installation
+composer update square/connect ==> update
+composer remove square/connect ==> remove
+
+Once this installaton is made, you can set the apps.
 
 
 See Marketplace for all informations
